@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # vim: set sw=2 ts=4 softabstop=4 expandtab
 """
 Output checker inspired by LLVM's FileCheck.
